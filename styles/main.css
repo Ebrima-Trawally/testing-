@@ -1,0 +1,200 @@
+body, h2,h3,div, a, img, footer{
+    margin: 0;
+    padding: 0;
+    font-size: 1.7;
+
+}
+img{
+    max-width: 50%;
+
+
+    /*header*/
+}
+.header{
+    background-color: azure;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 1rem;
+
+}
+.header a{
+    text-decoration: none;
+    padding: 1rem;
+    color: white;
+}
+.start a{
+    color: #000;
+}
+.in{
+    margin-left: auto;
+    background-color: blue;
+    padding: 1.2rem 1.2rem;
+    border-radius: 15px;
+}
+
+/*hero*/
+.hero{
+    background-color: rgb(232, 203, 202);
+    height: 800px;
+     justify-content: center;
+    align-items: center;
+
+}
+.big{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    /* border: solid red 1px; */
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    /* margin-top: 0; */
+    /* padding-top: 0; */
+}
+.head p{
+    color: white;
+    font-weight: bold;
+    font-size: 3rem
+}
+.frm{
+    background-color: #fff;
+    border: blue solid 1px;
+    border-radius: 5px;
+    width: 50%;
+    padding: 1rem 1.2rem;
+    margin-right: 12px;;
+}
+.page a{
+    text-decoration: none;
+    background-color:blue;
+    color: #fff;
+    padding: 1rem 1.2rem;
+    border-radius: 5px;
+}
+
+
+
+.main{
+    display: flex;
+    background-color: aliceblue;
+    height: 450px;
+}
+.reponsive{
+    margin: auto;
+    width: 33.3%;
+    padding: 2rem;
+}
+.tul{
+    width: auto;
+    /* margin: auto; */
+}
+.ready{
+    width: 33.3%;
+    margin-right: 2rem;
+}
+.image1{
+    width: auto;
+}
+.use{
+    width: 33.3%;
+}
+
+
+
+
+
+
+
+.sections{
+    background-color: #fff;
+    padding: 1.2rem;
+    display: flex;
+    /* border: 1px solid red; */
+}
+.develop{
+    width: 100%;
+    border-radius: 50px;
+}
+.easy{
+    /* display: flex; */
+    width: 50%;
+}
+.design{
+    width: 50%;
+    padding-right: 2rem;
+}
+
+
+
+
+
+
+.small{
+    background-color:rgb(194, 209, 204);
+}
+.saying h2{
+    text-align: center;
+    font-weight: bolder;
+}
+.flex{
+    display: flex;
+    padding: 1.2rem;
+}
+.rest_p{
+    border-radius: 100px;
+}
+.margarte{
+   width: 33.3%;
+}
+.fred{
+    width: 33.3%;
+}
+.sarah{
+    width: 33.3%;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+
+.e_m{
+    width: 50%;
+    padding: 1.2rem;
+    border-radius: 12px;
+    background-color: #fff;
+}
+.sign_up{
+    text-align: center;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.sign_up a{
+    text-decoration: none;
+    background-color: blue;
+    border-radius: 12px;
+    padding: 1.2rem;
+}
+.footer{
+    background-color: #fff;
+    height: 55px;
+}
+.footer a{
+    padding: 1.2rem;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+}
+
+
+@media{
+    width: max-content;
+}
+
+
+
+
+
+
